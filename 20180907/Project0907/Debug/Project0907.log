@@ -1,0 +1,4 @@
+﻿  fighth.c
+f:\1학년 2학기\c프로그래밍실습(김영철 교수님)\20180907\project0907\fighth.c(28): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+f:\1학년 2학기\c프로그래밍실습(김영철 교수님)\20180907\project0907\fighth.c(29): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+  Project0907.vcxproj -> F:\1학년 2학기\C프로그래밍실습(김영철 교수님)\20180907\Project0907\Debug\Project0907.exe

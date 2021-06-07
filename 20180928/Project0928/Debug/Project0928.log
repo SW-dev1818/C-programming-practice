@@ -1,0 +1,3 @@
+﻿  chsug.c
+f:\1학년 2학기\c프로그래밍실습(김영철 교수님)\20180928\project0928\chsug.c(68): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Project0928.vcxproj -> F:\1학년 2학기\C프로그래밍실습(김영철 교수님)\20180928\Project0928\Debug\Project0928.exe
